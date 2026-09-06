@@ -2,7 +2,7 @@
   "name": "vylux-baileys",
   "type": "module",
   "version": "6.7.24-vylux.1",
-  "description": "VYLUX-BAILEYS - stable fork of WhiskeySockets/Baileys 6.7.24 with custom pairing code + native button support. VYLUX-Baileys is built and maintained by VYLUX TECH for VYLUX-XMD.",
+  "description": "VYLUX-BAILEYS - a stable WhatsApp Web library with custom pairing code + native button support, by VYLUX TECH.",
   "keywords": [
     "whatsapp",
     "automation",
