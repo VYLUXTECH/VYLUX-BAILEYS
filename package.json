@@ -1,7 +1,7 @@
 {
   "name": "vylux-baileys",
   "type": "module",
-  "version": "6.7.24-vylux.2",
+  "version": "1.0.0",
   "description": "VYLUX-BAILEYS - a stable WhatsApp Web library with custom pairing code + native button support, by VYLUX TECH.",
   "keywords": [
     "whatsapp",
